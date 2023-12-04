@@ -1,4 +1,4 @@
-# react-native-content-srasandung
+# react-native-webView-srasandung
 
 Peta Persebaran Rumah Sakit Bandung (SRASANDUNG) merupakan aplikasi untuk mencari rumah sakit di Bandung. Dibuat Oleh Della Monica.
 
